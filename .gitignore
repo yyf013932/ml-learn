@@ -1,3 +1,5 @@
 TensorFlow-Examples/*
 .ipynb_checkpoints/*
 */.ipynb_checkpoints
+TensorFlow/logs/*
+TensorFlow/MNIST_data/*
